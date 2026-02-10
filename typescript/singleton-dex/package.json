@@ -1,0 +1,24 @@
+{
+    "name": "@example-hub/singleton-dex",
+    "version": "0.1.0",
+    "description": "The First Singleton DEX on BNB Chain with Flash Accounting and Native Limit Orders",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "bnb-chain",
+        "dex",
+        "singleton",
+        "flash-accounting",
+        "limit-orders",
+        "defi"
+    ],
+    "author": "",
+    "license": "GPL-3.0",
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
