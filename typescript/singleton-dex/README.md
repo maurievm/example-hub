@@ -121,7 +121,7 @@ forge test -vv
 | **Mock USDT** | `0x323...` |
 | **Mock BTCB** | `0x948...` |
 
-## 🎯 Why BNBSwap Wins Hackathons
+## 🎯 Why BNBSwap?
 
 1.  **Gas Efficiency**: 33-44% savings vs standard DEXes via Flash Accounting.
 2.  **Novel Features**: Native limit orders on BNB Chain without off-chain relayers.
